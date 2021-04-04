@@ -1,5 +1,5 @@
 # 目录
 
-* [Introduction](README.md)
-* [Before...](before....md)
+* [介绍](README.md)
+* [前提](before.md)
 
