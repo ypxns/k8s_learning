@@ -1,8 +1,8 @@
 ## 基础知识
-* 1、go 语言 
-* 2、常见的设计模式
-* 3、go project layout
-* 4、cobra libary
+* go 语言 
+* 常见的设计模式
+* go project layout
+* cobra libary
 
 
 ## 参考资料
@@ -10,3 +10,4 @@
 * [cobra](https://github.com/spf13/cobra)
 * [47 advanced tutorials for mastering Kubernetes](https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes)
 * [golang](https://www.geeksforgeeks.org/golang/)
+* [go project layout](https://github.com/golang-standards/project-layout)
